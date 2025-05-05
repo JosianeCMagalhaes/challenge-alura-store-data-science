@@ -1,8 +1,8 @@
 # Alura Store - Análise de Dados 📊
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=An%C3%A1lise+de+Vendas+e+Desempenho+%F0%9F%93%8A!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Análise de Vendas e Desempenho">
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=480&height=50&duration=4000&lines=An%C3%A1lise+de+Vendas+e+Desempenho+%F0%9F%93%8A!" alt="Análise de Vendas e Desempenho"/>
+</div>
 
 <p align="center">
   Este projeto tem como objetivo realizar uma análise detalhada dos dados de vendas da Alura Store, buscando entender padrões de comportamento de compra, tendências de produtos e o impacto de promoções e datas especiais nas vendas. 📈
