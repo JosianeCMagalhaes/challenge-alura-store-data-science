@@ -1,7 +1,7 @@
 # Alura Store - Análise de Dados 📊
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=An%C3%A1lise+de+Vendas+e+Desempenho!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Análise de Vendas e Desempenho">
+  <img src="https://readme-typing-svg.demolab.com/?lines=An%C3%A1lise+de+Vendas+e+Desempenho+%F0%9F%93%8A!&font=Fira%20Code&center=true&width=480&height=50&duration=4000&pause=1000" alt="Análise de Vendas e Desempenho">
 </p>
 
 <p align="center">
