@@ -88,7 +88,9 @@ Aqui estão alguns gráficos gerados durante a análise:
 
 Fui reconhecida com a seguinte Badge pelo programa ONE (Oracle Next Education), uma iniciativa da Alura Latam em parceria com a Oracle:
 
-![Badge Oracle Next Education](https://github.com/user-attachments/assets/c01f07c6-8970-444b-ba91-c116f494bb03)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/c01f07c6-8970-444b-ba91-c116f494bb03" alt="Badge Oracle Next Education">
+</p>
 
 ### 🎓 Destaque
 
